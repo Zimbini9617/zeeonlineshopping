@@ -9,7 +9,7 @@ Clone of an e-commerce website
 
 ## Live View
 
-[E-commerceWebsite] (https://zeeonlineshopping.vercel.app/)
+[E-commerceWebsite](https://zeeonlineshopping.vercel.app/)
 
 ## Built With
 
